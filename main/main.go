@@ -1,9 +1,9 @@
 package main
 
 import (
-	"example.com/main/mapob"
+	"example.com/main/channel"
 )
 
 func main() {
-	mapob.BasicMap()
+	channel.BasicChan()
 }
